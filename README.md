@@ -8,7 +8,6 @@ This is a solution to the [Product preview card component challenge on Frontend 
   - [The challenge](#the-challenge)
   - [Screenshot](#screenshot)
   - [Links](#links)
-- [My process](#my-process)
   - [Built with](#built-with)
   - [Continued development](#continued-development)
 
@@ -55,4 +54,3 @@ Users should be able to:
 
 I would want to focus and figure out how to position things better and make the code more readable in a case if i have teammates to work with. Next, is to create more simplier solutions instead of brute forcing it. 
 
-*
