@@ -1,0 +1,94 @@
+.attribution { font-size: 11px; text-align: center; }
+
+.attribution a { color: hsl(228, 45%, 44%); }
+
+body{background-color: hsl(30, 38%, 92%);}
+
+.center{
+  position: relative;
+  margin: auto;
+  border-radius: 10px;
+  background-color: white;
+  width: 650px;
+  height: 500px;
+}
+
+img{
+  float: left;
+  border-top-left-radius: 10px;
+  border-bottom-left-radius: 10px;
+  height: 500px;
+  max-width: 100%;
+  max-height: 100%;
+}
+
+.perfume {
+    font-family: 'Montserrat', sans-serif;
+    color: hsl(228, 12%, 48%);
+    font-size: 14px;
+    font-weight: 500;
+    padding-left: 355px;
+    padding-top: 20px;
+}
+
+.title  {
+    font-family: 'Fraunces', sans-serif;
+    font-weight: 700;
+    padding-left: 350px;
+}
+
+.desc {
+  line-height: 1.5;
+    font-family: 'Montserrat';
+    font-weight: 500;
+    font-size: 14px;
+    color: hsl(228, 12%, 48%);
+    padding-left: 350px;
+}
+
+.price{
+  font-family: 'Fraunces', sans-serif;
+  color: rgba(23, 100, 81, 0.952);
+  display:inline-block;
+  padding-left: 15px;
+}
+
+.strike{
+  position: relative;
+  bottom: 5px;
+  color: gray;
+  display:inline-block;
+  font-size: 15px;
+
+}
+
+.button{
+
+  cursor: pointer;
+  width: 250px;
+  height: 50px;
+  font-family: 'Montserrat', sans-serif;
+  color: white;
+  background-color: #226b59;
+  border: 0;
+  border-radius: 0.5rem;
+  color: white;
+  font-size: 15px;
+}
+
+.button:active{
+  background-color: #2a584d;
+}
+
+section{
+  position: relative;
+  top: 5%;
+  padding-left: 350px;
+}
+
+.shoppingIcon{
+  position: relative;
+  left: 50px;
+  width: 22px;
+  height: 21px;
+}
